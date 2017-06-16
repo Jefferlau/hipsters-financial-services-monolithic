@@ -1,0 +1,12 @@
+[submodule "web"]
+	path = web
+	url = git@github.com:Jefferlau/hipsters-financial-services-monolithic-web.git
+[submodule "financial"]
+	path = financial
+	url = git@github.com:Jefferlau/hipsters-financial-services-monolithic-financial.git
+[submodule "schedule"]
+	path = schedule
+	url = git@github.com:Jefferlau/hipsters-financial-services-monolithic-schedule.git
+[submodule "registry"]
+	path = registry
+	url = git@github.com:Jefferlau/jhipster-registry.git
